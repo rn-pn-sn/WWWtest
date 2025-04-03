@@ -6,7 +6,7 @@
                     "descText": "TEXT_COLLECTIONS_MILESTONE_TASK_LOCK_CAR",
                     "milestoneCTAType": "LockCar",
                     "milestoneRewards": [{
-                            "rewardList": ["Collection_XP_1500"]
+                            "rewardList": ["Collection_HP_1500"]
                         }
                     ],
                     "milestoneTarget": 1,
