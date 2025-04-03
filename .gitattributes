@@ -3,5 +3,4 @@
 # Exclude from Releases
 .Documentation export-ignore
 Localisation/** export-ignore
-TextData/** export-ignore
 README.md export-ignore
